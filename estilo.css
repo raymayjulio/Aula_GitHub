@@ -1,3 +1,21 @@
 p{
 color:red;
 }
+.seta-esquerda{
+    float:left;
+}
+.seta-direita{
+    float:right;
+}
+.mb-0{
+    font-style:normal;
+    color:black;
+    text-align: center;
+    font-size: 20px;
+}
+.mb-o:hover{
+    font-style:normal;
+}
+.card-header{
+    background-color: #0ac970;
+}
